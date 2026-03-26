@@ -7,6 +7,7 @@ A curated list of AI video generators and resources for creators, marketers, and
 ## 🎥 Text-to-Video & Repurposing Tools
 - **Pictory** – Turn long-form blog posts into short, branded videos with stock footage and captions.
 - **Vidnoz AI** – Create avatar-led videos for training, sales, and presentations with realistic voices.
+- **PVID** – Free AI video generator aggregating Kling 3.0, Sora 2, Veo 3.1 with image-to-video, text-to-video, and video-to-video support.
 
 ## 📚 In‑Depth Comparisons & Guides
 - [Pictory AI vs Vidnoz AI: The Best AI Video Tool in 2026?](https://aiblogfirst.com/pictory-ai-vs-vidnoz-ai/)
